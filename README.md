@@ -1,0 +1,6 @@
+# Darbi
+FUNNY - lielie cipari
+Lielais-uzdevums - webscrape weather + excel
+blackjack- ...
+dice - ...
+izmainas - skolas izmainas 11.DIT klasei
